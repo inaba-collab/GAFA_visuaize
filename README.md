@@ -23,6 +23,6 @@ https://github.com/inaba-collab/GAFA_visuaize/issues/1#issue-4116272540
 Python 3.7以上
 
 ## 使用方法
-'''bash
-cd GAFA_visualize
+'''bash<br>
+cd GAFA_visualize<br>
 streamlit run app.py

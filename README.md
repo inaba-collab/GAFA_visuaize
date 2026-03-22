@@ -24,5 +24,5 @@ Python 3.7以上
 
 ## 使用方法
 '''bash
-cd GAFA_visualize\n
+cd GAFA_visualize
 streamlit run app.py
